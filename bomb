@@ -1,5 +1,0 @@
-#!/bin/bash
-cd /data/data/com.termux/files/home
-cd Infinite-Bomber-android
-cd Infinite-Bomber-arm64
-./infinite-bomber
